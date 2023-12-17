@@ -9,7 +9,6 @@ Supervised by Stefan Røpke
 
 __Keywords:__ LINER-LIB, Liner Shipping Network Design Problem, Simulated Annealing metaheuristic, Dantzing Wolfe decomposition, Column generation, Service design, MIP, optimization.
 
-<br>
 
 <br>
 This project proposes a method for solving of the Liner Shipping Network Design Problem (LSNDP). The LSNDP presents intricate challenges in optimizing shipping routes and the flow of cargo.
