@@ -1,7 +1,7 @@
 ### Optimal Maritime Connectivity | Algorithmic Modeling of Liner Shipping Networks
 
-This project proposes a method for solving of the Liner Shipping Network Design Problem (LSNDP). The LSNDP presents intricate challenges in optimizing shipping routes and the flow of cargo. 
+This project proposes a method for solving of the Liner Shipping Network Design Problem (LSNDP). The LSNDP presents intricate challenges in optimizing shipping routes and the flow of cargo. <br>
 
-This approach employs a two-stage methodology, comprising service-first and flow-second algorithms. The service-first algorithm involves a simulated annealing (SA) metaheuristic to construct services and minimize their fixed costs. The flow-second algorithm involves a Mixed-Integer Program (MIP) for solving the LSNDP. The models are evaluated on the Baltic, West Africa, and Mediterranean instance from LINER-LIB which is a benchmark suite for model testing. The LINER-LIB documentation can be found here: http://www.linerlib.org.
+This approach employs a two-stage methodology, comprising service-first and flow-second algorithms. The service-first algorithm involves a simulated annealing (SA) metaheuristic to construct services and minimize their fixed costs. The flow-second algorithm involves a Mixed-Integer Program (MIP) for solving the LSNDP. The models are evaluated on the Baltic, West Africa, and Mediterranean instance from LINER-LIB which is a benchmark suite for model testing. The LINER-LIB documentation can be found here: http://www.linerlib.org.<br>
 
-The 'Results' folder encompasses the resulting services of the SA metaheuristic along with the output of the MIP. The implementatation of the SA metaheuristic can be found in Service-Network-Design.py and the MIP models are found in flowBaltic_final.ipynb, flowWAF_final.ipynb, and flowMed_final.ipynb.
+The 'Results' folder encompasses the resulting services of the SA metaheuristic along with the output of the MIP. The implementatation of the SA metaheuristic can be found in Service-Network-Design.py and the MIP models are found in flowBaltic_final.ipynb, flowWAF_final.ipynb, and flowMed_final.ipynb. 
