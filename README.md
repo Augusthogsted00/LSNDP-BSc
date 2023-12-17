@@ -1,5 +1,8 @@
 ### Optimal Maritime Connectivity | Algorithmic Modeling of Liner Shipping Networks
 
+__Keywords:__ LINER-LIB, Liner Shipping Network Design Problem, Simulated An-
+nealing metaheuristic, Dantzing Wolfe decomposition, Column generation, Service design, MIP, optimization.
+
 This project proposes a method for solving of the Liner Shipping Network Design Problem (LSNDP). The LSNDP presents intricate challenges in optimizing shipping routes and the flow of cargo.
 
 This approach employs a two-stage methodology, comprising service-first and flow-second algorithms. The service-first algorithm involves a simulated annealing (SA) metaheuristic to construct services and minimize their fixed costs. The flow-second algorithm involves a Mixed-Integer Program (MIP) for solving the LSNDP. The models are evaluated on the Baltic, West Africa, and Mediterranean instance from LINER-LIB which is a benchmark suite for model testing. The LINER-LIB documentation can be found here: http://www.linerlib.org.
