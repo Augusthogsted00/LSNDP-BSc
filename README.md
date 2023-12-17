@@ -1,7 +1,12 @@
 ### Optimal Maritime Connectivity | Algorithmic Modeling of Liner Shipping Networks
 
+<\br>
+By August Høgsted and Johan Matzen Brodt
+Supervised by Stefan Røpke
+<\br>
+
 __Keywords:__ LINER-LIB, Liner Shipping Network Design Problem, Simulated An-
-nealing metaheuristic, Dantzing Wolfe decomposition, Column generation, Service design, MIP, optimization.
+nealing metaheuristic, Dantzing Wolfe decomposition, Column generation, Service design, MIP, optimization.<\br>
 
 This project proposes a method for solving of the Liner Shipping Network Design Problem (LSNDP). The LSNDP presents intricate challenges in optimizing shipping routes and the flow of cargo.
 
