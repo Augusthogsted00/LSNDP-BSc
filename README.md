@@ -6,8 +6,6 @@ By August Høgsted and Johan Matzen Brodt
 Supervised by Stefan Røpke
 <br>
 
-<br>
-
 __Keywords:__ LINER-LIB, Liner Shipping Network Design Problem, Simulated Annealing metaheuristic, Dantzing Wolfe decomposition, Column generation, Service design, MIP, optimization.
 
 
