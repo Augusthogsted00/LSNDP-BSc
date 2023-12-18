@@ -1,6 +1,7 @@
 ### Optimal Maritime Connectivity | Algorithmic Modeling of Liner Shipping Networks
 
 By August Høgsted and Johan Matzen Brodt
+
 Supervised by Stefan Røpke
 <br>
 
